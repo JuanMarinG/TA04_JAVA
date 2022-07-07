@@ -50,7 +50,7 @@ public class ex03 {
 		System.out.println("El doble de N es " + 2*N);
 		System.out.println("El doble de M es " + 2*M);
 		
-		System.out.println(X + " * " + Y + " * " + N + " * " + M + " = " + (X*Y*M*N)); 
+		System.out.println("El producto de todas las variables es " + (X*Y*M*N)); 
       
 	}
 
